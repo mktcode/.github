@@ -1,0 +1,11 @@
+{
+    "name": "Octobay Workflow",
+    "description": "Octobay's main \"one size fits all\" workflow",
+    "iconName": "logo",
+    "categories": [
+        "Javascript"
+    ],
+    "filePatterns": [
+        ".octobay.json$"
+    ]
+}
